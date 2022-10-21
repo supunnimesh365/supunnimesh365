@@ -1,4 +1,4 @@
-- 👋 Hi, I’m desmand96
+- 👋 Hi, I’m supun nimesh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on web projects
